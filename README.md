@@ -18,7 +18,7 @@ Open Powershell
 "C:\Top10_CPU_Memory.ps1"
 
 # Example O/P
-
+![alt text](https://github.com/Sahista-Patel/Top-10-CPU-Memory-Utilizations-Processes/blob/Powershell/cpu_memory.PNG)
 Process Name       CPU<br>
 ------------       ---<br>
 _Total             784<br>
