@@ -19,44 +19,33 @@ Open Powershell
 
 # Example O/P
 
-Process Name       CPU
-
-------------       ---
-
+Process Name       CPU<br>
+------------       ---<br>
 _Total             784<br>
-Idle               649
-
-SearchFilterHost    93
-
-WmiPrvSE#1          15
-
-AdminByRequest#1    10
-
-SearchProtocolHost   5
-
-System               5
-
-Teams#4              5
-
-svchost#24           0
-
-svchost#6            0
+Idle               649<br>
+SearchFilterHost    93<br>
+WmiPrvSE#1          15<br>
+AdminByRequest#1    10<br>
+SearchProtocolHost   5<br>
+System               5<br>
+Teams#4              5<br>
+svchost#24           0<br>
+svchost#6            0<br>
 
 
 
-
-Process Name   Memory (MB)
-------------   -----------
-_Total             3197.95
-oracle#1            285.55
-oracle               273.2
-WINWORD             204.91
-Teams#4              191.9
-MsMpEng             184.43
-chrome#9            178.14
-chrome#2            158.18
-Teams#1             102.49
-powershell_ise       88.05
+Process Name   Memory (MB)<br>
+------------   -----------<br>
+_Total             3197.95<br>
+oracle#1            285.55<br>
+oracle               273.2<br>
+WINWORD             204.91<br>
+Teams#4              191.9<br>
+MsMpEng             184.43<br>
+chrome#9            178.14<br>
+chrome#2            158.18<br>
+Teams#1             102.49<br>
+powershell_ise       88.05<br>
 
 # License
 
@@ -65,8 +54,7 @@ Copyright 2020 Harsh & Sahista
 # Contribution
 
 * [Harsh Parech] (https://github.com/TheLastJediCoder)
-* [Sahista Patel] (https://github.com/Sahista-Patel)
-
+* [Sahista Patel] (https://github.com/Sahista-Patel)<br>
 We love contributions, please comment to contribute!
 
 # Code of Conduct
