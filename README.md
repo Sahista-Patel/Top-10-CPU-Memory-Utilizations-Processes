@@ -34,8 +34,8 @@ svchost#6            0<br>
 
 
 
-Process Name   Memory (MB)<br>
-------------   -----------<br>
+Process Name &nbsp Memory (MB)<br>
+------------ &nbsp -----------<br>
 _Total             3197.95<br>
 oracle#1            285.55<br>
 oracle               273.2<br>
@@ -46,6 +46,7 @@ chrome#9            178.14<br>
 chrome#2            158.18<br>
 Teams#1             102.49<br>
 powershell_ise       88.05<br>
+
 
 # License
 
