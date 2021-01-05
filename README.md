@@ -23,8 +23,7 @@ Process Name       CPU
 
 ------------       ---
 
-_Total             784
-
+_Total             784<br>
 Idle               649
 
 SearchFilterHost    93
@@ -67,6 +66,7 @@ Copyright 2020 Harsh & Sahista
 
 * [Harsh Parech] (https://github.com/TheLastJediCoder)
 * [Sahista Patel] (https://github.com/Sahista-Patel)
+
 We love contributions, please comment to contribute!
 
 # Code of Conduct
