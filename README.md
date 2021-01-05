@@ -34,8 +34,8 @@ svchost#6            0<br>
 
 
 
-Process Name &nbsp Memory (MB)<br>
------------- &nbsp -----------<br>
+Process Name      Memory (MB)<br>
+------------      -----------<br>
 _Total             3197.95<br>
 oracle#1            285.55<br>
 oracle               273.2<br>
