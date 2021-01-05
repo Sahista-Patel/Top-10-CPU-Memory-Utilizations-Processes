@@ -18,35 +18,8 @@ Open Powershell
 "C:\Top10_CPU_Memory.ps1"
 
 # Example O/P
+
 ![alt text](https://github.com/Sahista-Patel/Top-10-CPU-Memory-Utilizations-Processes/blob/Powershell/cpu_memory.PNG)
-Process Name       CPU<br>
-------------       ---<br>
-_Total             784<br>
-Idle               649<br>
-SearchFilterHost    93<br>
-WmiPrvSE#1          15<br>
-AdminByRequest#1    10<br>
-SearchProtocolHost   5<br>
-System               5<br>
-Teams#4              5<br>
-svchost#24           0<br>
-svchost#6            0<br>
-
-
-
-Process Name      Memory (MB)<br>
-------------      -----------<br>
-_Total             3197.95<br>
-oracle#1            285.55<br>
-oracle               273.2<br>
-WINWORD             204.91<br>
-Teams#4              191.9<br>
-MsMpEng             184.43<br>
-chrome#9            178.14<br>
-chrome#2            158.18<br>
-Teams#1             102.49<br>
-powershell_ise       88.05<br>
-
 
 # License
 
