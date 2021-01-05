@@ -20,17 +20,29 @@ Open Powershell
 # Example O/P
 
 Process Name       CPU
+
 ------------       ---
+
 _Total             784
+
 Idle               649
+
 SearchFilterHost    93
+
 WmiPrvSE#1          15
+
 AdminByRequest#1    10
+
 SearchProtocolHost   5
+
 System               5
+
 Teams#4              5
+
 svchost#24           0
+
 svchost#6            0
+
 
 
 
@@ -53,6 +65,8 @@ Copyright 2020 Harsh & Sahista
 
 # Contribution
 
+* [Harsh Parech] (https://github.com/TheLastJediCoder)
+* [Sahista Patel] (https://github.com/Sahista-Patel)
 We love contributions, please comment to contribute!
 
 # Code of Conduct
