@@ -27,7 +27,7 @@ Copyright 2020 Harsh & Sahista
 
 # Contribution
 
-* [Harsh Parech] (https://github.com/TheLastJediCoder)
+* [Harsh Parecha] (https://github.com/TheLastJediCoder)
 * [Sahista Patel] (https://github.com/Sahista-Patel)<br>
 We love contributions, please comment to contribute!
 
